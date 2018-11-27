@@ -1,10 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at machine learning, exploratory analysis, and data visualizations.
+I help organisations better inform with data, turning digital insights into customer value with Machine Learning.
 
-Etc, etc, etc
