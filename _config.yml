@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Yap Shiao Shyan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bringing data sci to web analytics"
   location         : "Dublin,Ireland"
   email            :
@@ -290,7 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
   # _pages
   - scope:
       path: ""
@@ -301,4 +301,4 @@ defaults:
       read_time: true
       comments: # true
       share: #true
-      related: true 
+      related: true
