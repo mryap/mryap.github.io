@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Note to Shelf"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Yap Shiao Shyan"
-  avatar           : "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://s.gravatar.com/avatar/282865eadd5ccc5a801ac7b1fa519855?s=80" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bringing data sci to web analytics"
   location         : "Dublin,Ireland"
   email            :
