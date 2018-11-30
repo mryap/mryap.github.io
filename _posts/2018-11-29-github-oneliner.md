@@ -5,9 +5,9 @@ tags: [Github]
 excerpt: "Useful essential Github command to start with"
 mathjax: "true"
 ---
-Github is a vital toolbox for anyone working with machine learning project.
+Github is a vital toolbox for anyone working with machine learning project, code and even content management.
 
-These 5 Git commands can keep you productive to share your data analysis source code with other team members. I picked this up because the course I enrolled in does not include in their curriculum.
+These 5 Git commands can keep you productive to share your work with other team members. I picked this up because the course I enrolled in does not include in their curriculum.
 
 `git status`
 
@@ -21,8 +21,8 @@ These 5 Git commands can keep you productive to share your data analysis source 
 
 These 5 commands allows you
 
-- to check what going on in your folder
-- what the git repositories (storage location of your code) on Github
+- to check what going on in your project folder (a.k.a Repositories)
+- what the git Repositories on Github
 - add what you need to save to Github
 - upload the source code
 
@@ -30,11 +30,27 @@ These 5 commands allows you
 
 There are 6 more Github command  
 
-`codebranch`
+`branch`
 `checkout`
 `pull`
 `fetch`
 `lop`
 `merge`
 
-Yes, you have to deal with Command Line Interface 
+Yes, you have to deal with Command Line Interface
+
+### Some Terms with Version Control
+
+`Push` - publish your changes to a remote repositories
+
+`Branch` - this will be used if you want to create a new feature or an upgrade to an existing code
+
+`Commit` - to save a snapshot of every file in your project
+
+`Clone` - to take a copy of an existing repositories
+
+`Fetch` - get the latest changes from an existing repositories
+
+`Fork` - you get a copy of another person whole repositories which allows you to experiment without affecting the their original project
+
+`Merge` - takes changes from one branch and apply them to another
