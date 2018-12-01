@@ -1,7 +1,7 @@
 ---
 title: "Data science workflow explained"
 date: 2018-11-28
-tags: [SQL]
+tags: ["Hire Yap"]
 excerpt: "Common Data science workflow explained via a baking analogies"
 mathjax: "true"
 output:
@@ -20,4 +20,4 @@ Common Data science workflow explained via a baking analogies
 
 5.  Every cook also works in their own personal, particular way with tools they've invented themselves - no way to start anything bigger than a Great Britain Bake Off as collaboration is hard.
 
-If the candidate can't explain a data science workflow to a non-technical audience using easy to relate daily analogies, consider hashtag#hireYap
+If the candidate can't explain a data science workflow to a non-technical audience using easy to relate daily analogies, consider hiring me.
