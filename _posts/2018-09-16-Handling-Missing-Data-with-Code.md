@@ -4,9 +4,9 @@ title: "Handling Missing Data with Code"
 date: 2018-09-16
 ---
 
-# Handling Missing Data with Code
+You can leave the data as is and go for a model which can handle missing data (such as XGBoost, Random Forest).  
 
-You can leave the data as is and go for a model which can handle missing data (such as XGBoost, Random Forest).  For some machine learning algorithms such as Linear Discriminant Analysis (**LDA**), having missing values in a dataset can cause errors.
+For some machine learning algorithms such as Linear Discriminant Analysis (**LDA**), having missing values in a dataset can cause errors.
 
 
 
@@ -25,7 +25,6 @@ There is a R package dealing with missing data named Amelia (yes after the famou
 
 ```python
 install.packages("Amelia", repos="http://r.iq.harvard.edu", type = "source")
-
 ```
 
 ### Python
