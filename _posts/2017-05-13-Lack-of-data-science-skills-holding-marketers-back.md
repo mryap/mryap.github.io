@@ -1,0 +1,1 @@
+The [2017 data-driven marketing report](https://r1.dotmailer-surveys.com/dd3il3d6-da2cm31c) reveals that while the vast majority of marketers understand the positive impact data-driven marketing can have on customer relationships and ROI, they lack the capabilities, knowledge and confidence needed to utilise the abundance of data available to them
