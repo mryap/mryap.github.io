@@ -1,7 +1,7 @@
 ---
-layout: post
+#layout: post
 title: Book Review of Remote
-author: YAP S S
+#author: YAP S S
 date: '2018-08-09 10:28:54'
 categories: bookreview
 ---
@@ -28,4 +28,4 @@ To quote Richard Benson
 
 
 
-First published on [Medium](https://medium.com/@mryap/book-review-of-remote-f0964ff76452) 
+First published on [Medium](https://medium.com/@mryap/book-review-of-remote-f0964ff76452)
