@@ -4,15 +4,19 @@ title: "Handling Missing Data with Code"
 date: 2018-09-16
 ---
 
-You can leave the data as is and go for a model which can handle missing data (such as XGBoost, Random Forest).  
+You can leave the data as is and go for a model which can handle missing data
+(such as XGBoost, Random Forest).  
 
-For some machine learning algorithms such as Linear Discriminant Analysis (**LDA**), having missing values in a dataset can cause errors.
+For some machine learning algorithms such as Linear Discriminant Analysis
+(**LDA**), having missing values in a dataset can cause errors.
 
 
 
 ### SQL
 
-In SQL, NULL represents a missing or unknown value. You can check for NULL values using the expression IS NULL. For example, to count the number of missing birth dates in the people table:
+In SQL, NULL represents a missing or unknown value. You can check for NULL
+values using the expression IS NULL. For example, to count the number of
+missing birth dates in the people table:
 
 ```sql
 SELECT COUNT(*) FROM people WHERE birthdate IS NULL;
@@ -21,9 +25,16 @@ SELECT COUNT(*) FROM people WHERE birthdate IS NULL;
 
 
 ### R
-There is a R package dealing with missing data named Amelia (yes after the famous missing Aviator)
+R and ggplot2 subscribes to the philosophy that missing values should never
+silently go missing. It’s not obvious where you should plot missing values,
+so ggplot2 doesn’t include them in the plot, but it does warn that they’ve been
+removed:
 
-```python
+
+- There is a R package dealing with missing data named Amelia
+(yes after the famous missing Aviator)
+
+```r
 install.packages("Amelia", repos="http://r.iq.harvard.edu", type = "source")
 ```
 
