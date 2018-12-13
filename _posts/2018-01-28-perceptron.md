@@ -68,6 +68,6 @@ You can also put it inline $$z=x+y$$
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
- ### Embded Gist
+### Embded Gist
 
  <script src="https://gist.github.com/robertgreiner/2479301.js"></script>

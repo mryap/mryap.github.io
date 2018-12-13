@@ -49,3 +49,4 @@ dataset[[1,2,3,4,5]] = dataset[[1,2,3,4,5]].replace(0, numpy.NaN)
 # print the first 20 rows of data
 print(dataset.head(20))
 ```
+<script src="https://gist.github.com/mryap/d4f092cb2058046ac7e3ba9cc292e74a.js"></script>
