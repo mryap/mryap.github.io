@@ -8,8 +8,6 @@ excerpt: "set a default format so you don't have to type the same thing in every
 nor constantly resize your terminal"
 ---
 
-###
-
 Docker looks for a config file in `~/.docker/config.json`.
 
 It stores settings here, like
@@ -22,7 +20,9 @@ It stores settings here, like
 
 The configuration that I use for the above `docker ps` format
 
+```
     # Configuration that I use:
     {
     "psFormat": "table {{.Names}}\\t{{.Image}}\\t{{.RunningFor}} ago\\t{{.Status}}\\t{{.Command}}"
     }
+```
