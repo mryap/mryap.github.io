@@ -20,9 +20,5 @@ It stores settings here, like
 
 The configuration that I use for the above `docker ps` format
 
-```
-{
-    "psFormat": "table {{.Names}}\\t{{.Image}}\\t{{.RunningFor}}
-    ago\\t{{.Status}}\\t{{.Command}}"
-}
-```
+<script src="https://gist.github.com/mryap/4b69a688f447747537257adc7aa06c5a.js">
+</script>
