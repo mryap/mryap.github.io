@@ -21,8 +21,8 @@ It stores settings here, like
 The configuration that I use for the above `docker ps` format
 
 ```
-    # Configuration that I use:
-    {
-    "psFormat": "table {{.Names}}\\t{{.Image}}\\t{{.RunningFor}} ago\\t{{.Status}}\\t{{.Command}}"
-    }
+{
+    "psFormat": "table {{.Names}}\\t{{.Image}}\\t{{.RunningFor}}
+    ago\\t{{.Status}}\\t{{.Command}}"
+}
 ```
