@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Yap Shiao Shyan"
   avatar           : "https://s.gravatar.com/avatar/282865eadd5ccc5a801ac7b1fa519855?s=80" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Bringing data sci to web analytics"
+  bio              : "Bringing machine learning to digital analytics"
   location         : "Dublin,Ireland"
   email            :
   links:
