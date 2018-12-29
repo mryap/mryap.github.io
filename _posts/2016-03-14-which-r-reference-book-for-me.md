@@ -7,7 +7,7 @@ Most R books are written by authors from their domains perspective. This post I 
 
 <b>Bio science Domain</b>
 
-Go for the 2nd edition if you can. The review of the first edition is [here] (http://lukemiller.org/index.php/2013/05/book-review-the-r-book-second-edition-2013/).
+Go for the 2nd edition if you can. The review of the first edition is [here](http://lukemiller.org/index.php/2013/05/book-review-the-r-book-second-edition-2013/).
 
  [![The R book, Second Edition](http://www.bio.ic.ac.uk/research/mjcraw/therbook/therbook.jpg)]()
 
