@@ -15,7 +15,7 @@ instantaneous the moment you execute a cell of code or markdown in the browser.
 It offers a generous 512MB RAM - 60 times more than the RAM on my laptop! It
 offers the official Jupyter Notebook interface unlike the Kaggle Kernel.
 
-![image](https://user-images.githubusercontent.com/15719191/50531546-a7d3e500-0b03-11e9-92ed-10c7c3e7ce7b.png)
+![image](https://user-images.githubusercontent.com/15719191/50531577-30eb1c00-0b04-11e9-93f0-cbf7919c2487.png)
 
 The following are packages that are available on RMOTR by I execute a `pip freeze`
 command in its Terminal.
