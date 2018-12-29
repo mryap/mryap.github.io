@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Speed and Security - 2 elements you can't ignore
-categories:
-- Conversion Optimisation
+date: 2018-09-20
+tags: [Conversion Optimisation]
 ---
-Wondering which of your website pages are effecting your load times? 
-
 Starting in July 2018, page speed will be a ranking factor for mobile searches. Here are some resources that can be used to evaluate a website page’s performance.
 
 - [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/), a public dataset of key user experience metrics for popular destinations on the web, as experienced by Chrome users under real-world conditions
@@ -14,7 +11,7 @@ Starting in July 2018, page speed will be a ranking factor for mobile searches. 
 ![](https://pbs.twimg.com/media/Dnih3HwXsAAEVVN.jpg)
 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/), a tool that indicates how well a page performs on the Chrome UX Report and suggests performance optimizations
-- [Use Site Content Page Timings](https://twitter.com/SharonTighe/status/1015142067125747712) Wondering which of your website pages are effecting your load times? Use Site Content Page Timings. 
+- [Use Site Content Page Timings](https://twitter.com/SharonTighe/status/1015142067125747712) Wondering which of your website pages are effecting your load times? Use Site Content Page Timings.
 
 
 Popular search engines like Google prioritize sites served over HTTPS.  Google has announced a deadline of July 2018 as the date for when Chrome will begin explicitly warning users if a site is insecure. [[Link](https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html)]
