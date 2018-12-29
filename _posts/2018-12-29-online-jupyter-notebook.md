@@ -1,6 +1,6 @@
 ---
 title: "Online Jupyter Notebook"
-date: 2018-01-28
+date: 2018-12-29
 tags: [Jupyter]
 excerpt: "Jupyter Notebooks as a Service- A free Data Science environment in the cloud."
 ---
@@ -12,7 +12,7 @@ virtual server on a cloud platform like AWS, GCP or Azure.
 
 My impression of  RMOTR Notebooks is the whole process is fast. The response is
 instantaneous the moment you execute a cell of code or markdown in the browser.
-It offers a generous 512MB RAM - 60 times more than the RAM on my laptop! 
+It offers a generous 512MB RAM - 60 times more than the RAM on my laptop!
 
 In the terminal, I export the packages that are available on RMOTR
 Notebooks by using `pip freeze`
