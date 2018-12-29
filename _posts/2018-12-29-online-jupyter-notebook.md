@@ -10,12 +10,12 @@ Jupyter Notebooks on a cloud platform like AWS, GCP or Azure.
 
 ![image](https://user-images.githubusercontent.com/15719191/50531263-fa5ed280-0afe-11e9-81a2-bf05c02ea633.png)
 
-My impression of  RMOTR Notebooks is the whole process is fast. The response is
+My impression of RMOTR Notebooks is the whole process is fast. The response is
 instantaneous the moment you execute a cell of code or markdown in the browser.
 It offers a generous 512MB RAM - 60 times more than the RAM on my laptop! It
 offers the official Jupyter Notebook interface unlike the Kaggle Kernel.
 
-https://s3.amazonaws.com/public-notebooks-assets/assets/landing.mp4
+![image](https://user-images.githubusercontent.com/15719191/50531546-a7d3e500-0b03-11e9-92ed-10c7c3e7ce7b.png)
 
 The following are packages that are available on RMOTR by I execute a `pip freeze`
 command in its Terminal.
@@ -27,5 +27,4 @@ pip freeze > requirements.txt
 <script src="https://gist.github.com/mryap/cdb190c307bfb564ef87da8ff78d502d.js"></script>
 
 One of the creeds is not to build your own data science infrastructure, RMOTR
-Notebooks could be an options for you.  Unlike Kaggle Kernel. it offers a
-familiar Jupyter Notebook interface.
+Notebooks could be an options for you.
