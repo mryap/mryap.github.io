@@ -26,5 +26,5 @@ pip freeze > requirements.txt
 
 <script src="https://gist.github.com/mryap/cdb190c307bfb564ef87da8ff78d502d.js"></script>
 
-One of the creeds is not to build your own data science infrastructure, RMOTR
-Notebooks could be an options for you.
+If you subscribe to the creeds of not building your own data science infrastructure,
+[RMOTR Notebooks](https://nb.rmotr.com/i/AzKtgR) could be an options for you.
