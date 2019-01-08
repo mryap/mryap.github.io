@@ -3,7 +3,7 @@ title: Ireland Milk Trade in 2015
 date: 2017-11-22 12:22:15 +00:00
 author: mryap
 categories:
-- Open Data
+- "Open Data"
 ---
 
 The United Nations Comtrade database used to analyse Ireland's imports and exports of milk and cream in 2015:
@@ -119,14 +119,4 @@ Ireland exported to over 58 countries during the period, but only imported from 
 
 Ireland has bi-directional trade (i.e. both exports and imports) with 15 countries. Singapore is the only country that geographically furthest away.
 
-[Data Analysis Code on GitHub ](https://github.com/mryap/src/blob/master/un-comtrade/Ireland-2015-5Month-Milk.ipynb)
-
-
-
-
-
-
-
-
-
-
+[Data Analysis Code available on request]()
