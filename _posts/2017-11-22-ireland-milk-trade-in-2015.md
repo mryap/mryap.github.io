@@ -2,8 +2,6 @@
 title: Ireland Milk Trade in 2015
 date: 2017-11-22 12:22:15 +00:00
 author: mryap
-categories:
-- "Open Data"
 ---
 
 The United Nations Comtrade database used to analyse Ireland's imports and exports of milk and cream in 2015:
