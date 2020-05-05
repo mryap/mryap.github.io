@@ -1,0 +1,41 @@
+# Query: minimist
+# ContextLines: 2
+
+8 results - 1 file
+
+package-lock.json:
+   847            }
+   848          },
+   849:         "minimist": {
+   850            "version": "0.0.8",
+   851            "bundled": true,
+
+   875            "dev": true,
+   876            "requires": {
+   877:             "minimist": "0.0.8"
+   878            }
+   879          },
+
+  1012              "deep-extend": "^0.5.1",
+  1013              "ini": "~1.3.0",
+  1014:             "minimist": "^1.2.3",
+  1015              "strip-json-comments": "~2.0.1"
+  1016            },
+  1017            "dependencies": {
+  1018:             "minimist": {
+  1019                "version": "1.2.3",
+  1020                "bundled": true,
+
+  1520        }
+  1521      },
+  1522:     "minimist": {
+  1523        "version": "1.2.0",
+  1524:       "resolved": "http://registry.npmjs.org/minimist/-/minimist-1.2.3.tgz",
+  1525        "integrity": "sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=",
+  1526        "dev": true
+
+  1702          "chokidar": "^2.0.0",
+  1703          "cross-spawn": "^6.0.0",
+  1704:         "minimist": "^1.2.3",
+  1705          "tree-kill": "^1.2.0"
+  1706        }
